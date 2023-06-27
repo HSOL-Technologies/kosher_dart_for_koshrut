@@ -1,5 +1,7 @@
 # kosher_dart API
 
+FORK of https://pub.dev/packages/kosher_dart, for Koshrut TO make intl > 0.17.0
+
 This API for a specialized calendar that can calculate different astronomical times including sunrise and sunset and Jewish zmanim or religious times for prayers and other Jewish religious dutuies.
 This API Translated [KosherJava Zmanim API](https://github.com/KosherJava/zmanim) from JAVA to Dart language.
 
